@@ -1,2 +1,2 @@
 print ("Hello MLOPS")
-print ("Commit from new branch")
+print ("No branch name")
